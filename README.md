@@ -1,4 +1,4 @@
-### Ola sou Cassio Bartolo, Desenvolvedor full stack👋
+### Ola sou Cassio Bartolo, Analista de sistema / Desenvolvedor👋
 
 ## Tecnologias que eu uso
 <div style="display: inline_block">
